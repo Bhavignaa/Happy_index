@@ -92,8 +92,6 @@ Combines real-time prediction with periodic graph updates.
 ### 🗄️ Database
 - MongoDB  
 
-### 🎨 Frontend
-- Lovable  
 
 ---
 
