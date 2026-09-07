@@ -28,7 +28,6 @@ To build and evaluate sentiment classification models using a synthetic dataset.
 - Data preprocessing (cleaning, tokenization, stopword removal)
 - Feature extraction using TF-IDF Vectorization
 - Model training using:
-  - Naive Bayes
   - Support Vector Machine (SVM)
 - Model evaluation using:
   - Accuracy
