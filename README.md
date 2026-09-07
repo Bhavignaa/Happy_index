@@ -79,18 +79,6 @@ Combines real-time prediction with periodic graph updates.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🤖 Machine Learning
-- Python  
-- Scikit-learn  
-- TF-IDF Vectorizer  
-
-### 🖥️ Backend
-- Python using Flask or FastAPI  
-
-### 🗄️ Database
-- MongoDB  
 
 
 ---
